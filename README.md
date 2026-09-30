@@ -2,7 +2,7 @@
 
 ### Software Engineer | Mobile, Backend & Web Development
 
-I build software products across **mobile, backend, and web**, with professional experience working on production applications and large-scale systems.
+I build software products across **mobile, backend, and web**, with professional experience working on production applications and large-scale systems — including time at **iFood** and projects for **fintechs**.
 
 My main stack includes **Kotlin, Swift, Java, TypeScript, Spring Boot, PostgreSQL, React, Next.js, and Kotlin Multiplatform**.
 
@@ -16,7 +16,9 @@ I enjoy working on real products, solving technical problems, improving existing
 
 Sou desenvolvedor de software com experiência em **desenvolvimento mobile, backend e web**.
 
-Tenho experiência profissional no desenvolvimento de aplicações para **Android e iOS**, trabalhando com Kotlin, Java e Swift em ambientes de produção e produtos de grande escala.
+Atuei profissionalmente na **iFood**, uma das maiores plataformas de tecnologia do Brasil, e também estive envolvido em projetos para **fintechs**, trabalhando em ambientes de produção e produtos de grande escala.
+
+Tenho experiência no desenvolvimento de aplicações para **Android e iOS**, trabalhando com Kotlin, Java e Swift.
 
 Também atuo no desenvolvimento backend, criando **APIs, integrações, regras de negócio e serviços** utilizando Kotlin, Spring Boot, TypeScript e PostgreSQL.
 
@@ -30,13 +32,25 @@ Atualmente também desenvolvo projetos utilizando **Kotlin Multiplatform e Compo
 
 I'm a software developer with experience across **mobile, backend, and web development**.
 
-I have professional experience building applications for **Android and iOS**, working with Kotlin, Java, and Swift in production environments and large-scale products.
+I've worked professionally at **iFood**, one of Brazil's largest technology platforms, and have also been involved in projects for **fintechs**, working in production environments and large-scale products.
+
+I have experience building applications for **Android and iOS**, working with Kotlin, Java, and Swift.
 
 I also work on backend development, building **APIs, integrations, business logic, and services** using Kotlin, Spring Boot, TypeScript, and PostgreSQL.
 
 For web development, I work with **React, Next.js, and TypeScript**, building user interfaces, web applications, and integrations with backend services.
 
 I'm also currently building projects with **Kotlin Multiplatform and Compose Multiplatform**, exploring shared code and business logic across platforms.
+
+---
+
+# Professional Experience
+
+- 🍔 **iFood** — worked on mobile and/or backend systems for one of Brazil's largest tech platforms, at production scale.
+- 💳 **Fintech projects** — contributed to fintech products, working with backend services, APIs, and business rules for financial applications.
+- 🏗️ Experience maintaining and evolving large-scale systems in production.
+
+> *Feel free to adjust the bullets above with specific roles, timeframes, or responsibilities for each experience.*
 
 ---
 
