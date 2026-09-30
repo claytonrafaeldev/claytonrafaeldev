@@ -56,9 +56,15 @@ I'm also currently building projects with **Kotlin Multiplatform and Compose Mul
 
 # Featured Project
 
-### 🎟️ I Love Clube — App de Clube de Benefícios
+### 🎟️ I Love Clube — Plataforma de Clube de Benefícios
 
-Aplicativo de clube de benefícios que oferece descontos e promoções exclusivas em bares, restaurantes, hotéis, academias e experiências. Estou desenvolvendo o projeto em parceria, utilizando **tecnologias nativas** (Android/iOS).
+Plataforma de clube de benefícios por assinatura, com descontos e promoções exclusivas em bares, restaurantes, hotéis, academias e experiências. Estou desenvolvendo o projeto em parceria, atuando de ponta a ponta em **web, backend e aplicativos móveis nativos (Android/iOS)**.
+
+**Principais responsabilidades:**
+- 🌐 Desenvolvimento do site institucional e da landing page de assinatura
+- ⚙️ Construção do backend e das APIs que sustentam o cadastro de usuários, assinaturas e parceiros
+- 📱 Desenvolvimento dos aplicativos nativos Android e iOS, incluindo navegação por categorias e acesso aos benefícios
+- 🏪 Portal do Empreendedor, onde estabelecimentos parceiros se cadastram para oferecer benefícios
 
 **🔗 Links:**
 
