@@ -46,8 +46,8 @@ I'm also currently building projects with **Kotlin Multiplatform and Compose Mul
 
 # Professional Experience
 
-- 🍔 **iFood** — worked on mobile and/or backend systems for one of Brazil's largest tech platforms, at production scale.
-- 💳 **Fintech projects** — contributed to fintech products, working with backend services, APIs, and business rules for financial applications.
+- 🍔 **iFood**: worked on mobile and/or backend systems for one of Brazil's largest tech platforms, at production scale.
+- 💳 **Fintech projects**: contributed to fintech products, working with backend services, APIs, and business rules for financial applications.
 - 🏗️ Experience maintaining and evolving large-scale systems in production.
 
 > *Feel free to adjust the bullets above with specific roles, timeframes, or responsibilities for each experience.*
