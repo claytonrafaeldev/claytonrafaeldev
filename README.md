@@ -2,7 +2,7 @@
 
 ### Software Engineer | Mobile, Backend & Web Development
 
-I build software products across **mobile, backend, and web**, with professional experience working on production applications and large-scale systems, including time at **iFood** and projects for **fintechs**.
+I build software products across **mobile, backend, and web**, with professional experience working on production applications and large-scale systems — including time at **iFood** and projects for **fintechs**.
 
 My main stack includes **Kotlin, Swift, Java, TypeScript, Spring Boot, PostgreSQL, React, Next.js, and Kotlin Multiplatform**.
 
@@ -46,11 +46,25 @@ I'm also currently building projects with **Kotlin Multiplatform and Compose Mul
 
 # Professional Experience
 
-- 🍔 **iFood**: worked on mobile and/or backend systems for one of Brazil's largest tech platforms, at production scale.
-- 💳 **Fintech projects**: contributed to fintech products, working with backend services, APIs, and business rules for financial applications.
+- 🍔 **iFood** — worked on mobile and/or backend systems for one of Brazil's largest tech platforms, at production scale.
+- 💳 **Fintech projects** — contributed to fintech products, working with backend services, APIs, and business rules for financial applications.
 - 🏗️ Experience maintaining and evolving large-scale systems in production.
 
 > *Feel free to adjust the bullets above with specific roles, timeframes, or responsibilities for each experience.*
+
+---
+
+# Featured Project
+
+### 🎟️ I Love Clube — App de Clube de Benefícios
+
+Aplicativo de clube de benefícios que oferece descontos e promoções exclusivas em bares, restaurantes, hotéis, academias e experiências. Estou desenvolvendo o projeto em parceria, utilizando **tecnologias nativas** (Android/iOS).
+
+**🔗 Links:**
+
+[![Website](https://img.shields.io/badge/Website-000000?logo=googlechrome&logoColor=white)](https://www.iloveclube.com.br/)
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/br/app/i-love-clube/id6760230533)
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ourclube.app&pli=1)
 
 ---
 
