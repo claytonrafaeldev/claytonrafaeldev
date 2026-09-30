@@ -2,7 +2,7 @@
 
 ### Software Engineer | Mobile, Backend & Web Development
 
-I build software products across **mobile, backend, and web**, with professional experience working on production applications and large-scale systems — including time at **iFood** and projects for **fintechs**.
+I build software products across **mobile, backend, and web**, with professional experience working on production applications and large-scale systems, including time at **iFood** and projects for **fintechs**.
 
 My main stack includes **Kotlin, Swift, Java, TypeScript, Spring Boot, PostgreSQL, React, Next.js, and Kotlin Multiplatform**.
 
