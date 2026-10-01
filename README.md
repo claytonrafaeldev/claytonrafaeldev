@@ -72,6 +72,35 @@ Plataforma de clube de benefícios por assinatura, com descontos e promoções e
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/br/app/i-love-clube/id6760230533)
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ourclube.app&pli=1)
 
+
+### 🎮 WinRank: Plataforma de Jogos Competitivos
+
+Plataforma de jogos competitivos online, atualmente **em desenvolvimento**, focada em competições baseadas em habilidade, pontuação e rankings em tempo real. O projeto reúne diferentes jogos dentro de um mesmo ecossistema, com gerenciamento de partidas, classificação de jogadores e infraestrutura própria para processamento dos eventos dos jogos.
+
+Atuo no desenvolvimento da plataforma de ponta a ponta, envolvendo **frontend, backend, arquitetura realtime, banco de dados e integração dos jogos com a plataforma web**.
+
+**Principais responsabilidades:**
+
+- 🌐 Desenvolvimento da plataforma web e das interfaces utilizando Next.js
+- ⚙️ Construção do backend e das APIs responsáveis por usuários, partidas, pontuações e rankings
+- ⚡ Implementação de comunicação em tempo real via WebSocket para envio de eventos e atualização de rankings
+- 🏆 Desenvolvimento da lógica de partidas competitivas, classificação e processamento de pontuações
+- 🎮 Integração dos jogos com a plataforma web e com os serviços do backend
+- 🗄️ Estruturação de persistência e processamento utilizando PostgreSQL e Redis
+- 🔐 Implementação da arquitetura de autenticação e proteção das rotas da plataforma
+- 🧩 Desenvolvimento de uma arquitetura preparada para suportar múltiplos jogos dentro do mesmo ecossistema
+
+**🛠️ Tecnologias:**
+
+`Next.js` · `TypeScript` · `Kotlin` · `PostgreSQL` · `Redis` · `WebSocket` · `REST APIs` · `Godot`
+
+**🚧 Status:**
+
+Projeto atualmente **em desenvolvimento ativo**.
+
+**🔗 Links:**
+
+[Website](https://www.winrank.space/)
 ---
 
 # Tech Stack
